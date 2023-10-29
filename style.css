@@ -32,3 +32,8 @@ padding-top: 5%;
     background-image: url(top.jpg);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(dream.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
